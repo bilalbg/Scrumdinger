@@ -28,6 +28,7 @@
 		9ECE4C742B2B8EE60048B4EE /* AVPlayer+Ding.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9ECE4C732B2B8EE60048B4EE /* AVPlayer+Ding.swift */; };
 		9ECE4C762B2B95FF0048B4EE /* NewScrumSheet.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9ECE4C752B2B95FF0048B4EE /* NewScrumSheet.swift */; };
 		9ECE4C792B2B97B60048B4EE /* History.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9ECE4C782B2B97B60048B4EE /* History.swift */; };
+		9ECE4C7D2B2BA85D0048B4EE /* ScrumStore.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9ECE4C7C2B2BA85D0048B4EE /* ScrumStore.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -53,6 +54,7 @@
 		9ECE4C732B2B8EE60048B4EE /* AVPlayer+Ding.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = "AVPlayer+Ding.swift"; path = "../../../../../Downloads/PersistingData/Complete/Scrumdinger/Models/AVPlayer+Ding.swift"; sourceTree = "<group>"; };
 		9ECE4C752B2B95FF0048B4EE /* NewScrumSheet.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NewScrumSheet.swift; sourceTree = "<group>"; };
 		9ECE4C782B2B97B60048B4EE /* History.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = History.swift; sourceTree = "<group>"; };
+		9ECE4C7C2B2BA85D0048B4EE /* ScrumStore.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ScrumStore.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -111,6 +113,7 @@
 				9ECE4C732B2B8EE60048B4EE /* AVPlayer+Ding.swift */,
 				9ECE4C572B29178C0048B4EE /* DailyScrum.swift */,
 				9ECE4C782B2B97B60048B4EE /* History.swift */,
+				9ECE4C7C2B2BA85D0048B4EE /* ScrumStore.swift */,
 			);
 			path = Models;
 			sourceTree = "<group>";
@@ -211,6 +214,7 @@
 				9ECE4C722B2B8CDB0048B4EE /* MeetingFooterView.swift in Sources */,
 				9ECE4C702B2B86B20048B4EE /* ScrumTimer.swift in Sources */,
 				9ECE4C582B29178C0048B4EE /* DailyScrum.swift in Sources */,
+				9ECE4C7D2B2BA85D0048B4EE /* ScrumStore.swift in Sources */,
 				9ECE4C612B2938D20048B4EE /* DetailView.swift in Sources */,
 				9ECE4C6C2B2B84040048B4EE /* MeetingHeaderView.swift in Sources */,
 				9ECE4C642B293F270048B4EE /* DetailEditView.swift in Sources */,
